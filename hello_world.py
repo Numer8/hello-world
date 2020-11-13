@@ -1,3 +1,4 @@
+# This project is licensed under the terms of the MIT license.
 # Open command window or Windows Powershell
 # change to directory with Python Scripts in
 # venue        cd C:\Users\russt\OneDrive\Documents\Prog
